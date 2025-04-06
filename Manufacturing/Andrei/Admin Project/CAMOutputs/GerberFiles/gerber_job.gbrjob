@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-06T09:53:00Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PROIECT_OPEN_READER v77"
+        },
+        "Owner": "Andrei Broscareanu <andrei.broscareanu@stud.acs.upb.ro>",
+        "Size": {
+            "X": 170.219109,
+            "Y": 111.218406
+        }
+    }
+}
